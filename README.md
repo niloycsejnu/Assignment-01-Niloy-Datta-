@@ -2,7 +2,7 @@
 - Assignment-1 for Module-5
 - Ostad Mern Batch 06
 # Demo
-- https://niloycsejnu.github.io/Assignment-01-Niloy-Datta-/
+- https://niloycsejnu.github.io/NiloyDatta-Assignment-1-/
 # Language
 - HTML
 - CSS
