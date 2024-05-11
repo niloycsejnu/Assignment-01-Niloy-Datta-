@@ -7,7 +7,7 @@
 # Language
 - HTML
 - CSS
-- BOOTSTARP
+- BOOTSTRAP
 # Features
 - Fully Responsive
 - Mobile Navigations
